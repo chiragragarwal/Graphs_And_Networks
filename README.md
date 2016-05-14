@@ -10,7 +10,7 @@ Example:
 1 0 0 0 
 
 Output Graph:
-![4 Vertex Graph](https://github.com/chiragragarwal/Graphs_And_Networks/4_vertex_graph.png)
+![4 Vertex Graph](https://github.com/chiragragarwal/Graphs_And_Networks/blob/master/4_vertex_graph.png)
 
 2) Input Adjacency Matrix of a directed graph having 8 vertices:
 0 1 1 0 0 0 0 0 ;
@@ -23,4 +23,4 @@ Output Graph:
 1 0 0 0 0 0 1 0
 
 Output Graph:
-![8 Vertex Graph](https://github.com/chiragragarwal/Graphs_And_Networks/8_vertex_graph.png)
+![8 Vertex Graph](https://github.com/chiragragarwal/Graphs_And_Networks/blob/master/8_vertex_graph.png)
